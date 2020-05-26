@@ -1,0 +1,13 @@
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\bin\Debug\netcoreapp3.1\EJERCICIO 8.exe
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\bin\Debug\netcoreapp3.1\EJERCICIO 8.deps.json
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\bin\Debug\netcoreapp3.1\EJERCICIO 8.runtimeconfig.json
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\bin\Debug\netcoreapp3.1\EJERCICIO 8.runtimeconfig.dev.json
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\bin\Debug\netcoreapp3.1\EJERCICIO 8.dll
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\bin\Debug\netcoreapp3.1\EJERCICIO 8.pdb
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\obj\Debug\netcoreapp3.1\EJERCICIO 8.csprojAssemblyReference.cache
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\obj\Debug\netcoreapp3.1\EJERCICIO 8.csproj.CoreCompileInputs.cache
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\obj\Debug\netcoreapp3.1\EJERCICIO 8.AssemblyInfoInputs.cache
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\obj\Debug\netcoreapp3.1\EJERCICIO 8.AssemblyInfo.cs
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\obj\Debug\netcoreapp3.1\EJERCICIO 8.dll
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\obj\Debug\netcoreapp3.1\EJERCICIO 8.pdb
+C:\Users\dj23\Desktop\Nueva carpeta (2)\EJERCICIO 8\obj\Debug\netcoreapp3.1\EJERCICIO 8.genruntimeconfig.cache

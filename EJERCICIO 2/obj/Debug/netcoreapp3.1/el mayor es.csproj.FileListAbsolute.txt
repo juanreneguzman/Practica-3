@@ -1,0 +1,13 @@
+C:\Users\dj23\source\repos\el mayor es\bin\Debug\netcoreapp3.1\el mayor es.exe
+C:\Users\dj23\source\repos\el mayor es\bin\Debug\netcoreapp3.1\el mayor es.deps.json
+C:\Users\dj23\source\repos\el mayor es\bin\Debug\netcoreapp3.1\el mayor es.runtimeconfig.json
+C:\Users\dj23\source\repos\el mayor es\bin\Debug\netcoreapp3.1\el mayor es.runtimeconfig.dev.json
+C:\Users\dj23\source\repos\el mayor es\bin\Debug\netcoreapp3.1\el mayor es.dll
+C:\Users\dj23\source\repos\el mayor es\bin\Debug\netcoreapp3.1\el mayor es.pdb
+C:\Users\dj23\source\repos\el mayor es\obj\Debug\netcoreapp3.1\el mayor es.csprojAssemblyReference.cache
+C:\Users\dj23\source\repos\el mayor es\obj\Debug\netcoreapp3.1\el mayor es.csproj.CoreCompileInputs.cache
+C:\Users\dj23\source\repos\el mayor es\obj\Debug\netcoreapp3.1\el mayor es.AssemblyInfoInputs.cache
+C:\Users\dj23\source\repos\el mayor es\obj\Debug\netcoreapp3.1\el mayor es.AssemblyInfo.cs
+C:\Users\dj23\source\repos\el mayor es\obj\Debug\netcoreapp3.1\el mayor es.dll
+C:\Users\dj23\source\repos\el mayor es\obj\Debug\netcoreapp3.1\el mayor es.pdb
+C:\Users\dj23\source\repos\el mayor es\obj\Debug\netcoreapp3.1\el mayor es.genruntimeconfig.cache

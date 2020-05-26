@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EJERCICIOS_3</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\dj23\Documents\c#\tarea 3\EJERCICIOS 3.cs" Link="EJERCICIOS 3.cs" />
+  </ItemGroup>
+
+</Project>

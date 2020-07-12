@@ -1,0 +1,13 @@
+C:\Users\dj23\source\repos\2DO PARCIAL\bin\Debug\netcoreapp3.1\2DO PARCIAL.exe
+C:\Users\dj23\source\repos\2DO PARCIAL\bin\Debug\netcoreapp3.1\2DO PARCIAL.deps.json
+C:\Users\dj23\source\repos\2DO PARCIAL\bin\Debug\netcoreapp3.1\2DO PARCIAL.runtimeconfig.json
+C:\Users\dj23\source\repos\2DO PARCIAL\bin\Debug\netcoreapp3.1\2DO PARCIAL.runtimeconfig.dev.json
+C:\Users\dj23\source\repos\2DO PARCIAL\bin\Debug\netcoreapp3.1\2DO PARCIAL.dll
+C:\Users\dj23\source\repos\2DO PARCIAL\bin\Debug\netcoreapp3.1\2DO PARCIAL.pdb
+C:\Users\dj23\source\repos\2DO PARCIAL\obj\Debug\netcoreapp3.1\2DO PARCIAL.csprojAssemblyReference.cache
+C:\Users\dj23\source\repos\2DO PARCIAL\obj\Debug\netcoreapp3.1\2DO PARCIAL.AssemblyInfoInputs.cache
+C:\Users\dj23\source\repos\2DO PARCIAL\obj\Debug\netcoreapp3.1\2DO PARCIAL.AssemblyInfo.cs
+C:\Users\dj23\source\repos\2DO PARCIAL\obj\Debug\netcoreapp3.1\2DO PARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\dj23\source\repos\2DO PARCIAL\obj\Debug\netcoreapp3.1\2DO PARCIAL.dll
+C:\Users\dj23\source\repos\2DO PARCIAL\obj\Debug\netcoreapp3.1\2DO PARCIAL.pdb
+C:\Users\dj23\source\repos\2DO PARCIAL\obj\Debug\netcoreapp3.1\2DO PARCIAL.genruntimeconfig.cache

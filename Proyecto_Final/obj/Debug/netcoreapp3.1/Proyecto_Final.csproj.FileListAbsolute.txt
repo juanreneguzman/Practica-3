@@ -1,0 +1,13 @@
+C:\Users\dj23\source\repos\Proyecto_Final\bin\Debug\netcoreapp3.1\Proyecto_Final.exe
+C:\Users\dj23\source\repos\Proyecto_Final\bin\Debug\netcoreapp3.1\Proyecto_Final.deps.json
+C:\Users\dj23\source\repos\Proyecto_Final\bin\Debug\netcoreapp3.1\Proyecto_Final.runtimeconfig.json
+C:\Users\dj23\source\repos\Proyecto_Final\bin\Debug\netcoreapp3.1\Proyecto_Final.runtimeconfig.dev.json
+C:\Users\dj23\source\repos\Proyecto_Final\bin\Debug\netcoreapp3.1\Proyecto_Final.dll
+C:\Users\dj23\source\repos\Proyecto_Final\bin\Debug\netcoreapp3.1\Proyecto_Final.pdb
+C:\Users\dj23\source\repos\Proyecto_Final\obj\Debug\netcoreapp3.1\Proyecto_Final.csprojAssemblyReference.cache
+C:\Users\dj23\source\repos\Proyecto_Final\obj\Debug\netcoreapp3.1\Proyecto_Final.AssemblyInfoInputs.cache
+C:\Users\dj23\source\repos\Proyecto_Final\obj\Debug\netcoreapp3.1\Proyecto_Final.AssemblyInfo.cs
+C:\Users\dj23\source\repos\Proyecto_Final\obj\Debug\netcoreapp3.1\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\dj23\source\repos\Proyecto_Final\obj\Debug\netcoreapp3.1\Proyecto_Final.dll
+C:\Users\dj23\source\repos\Proyecto_Final\obj\Debug\netcoreapp3.1\Proyecto_Final.pdb
+C:\Users\dj23\source\repos\Proyecto_Final\obj\Debug\netcoreapp3.1\Proyecto_Final.genruntimeconfig.cache
